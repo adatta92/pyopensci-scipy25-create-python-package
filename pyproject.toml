@@ -32,7 +32,7 @@ classifiers = [
 ]
 
 keywords = ["numerical methods", "data analysis"]
-dependencies = ["numpy", "scikit-learn"]
+dependencies = ["numpy>=2", "scikit-learn"]
 
 [project.urls]
 Homepage = "https://github.com/adatta92/pyospackage_adatta"
